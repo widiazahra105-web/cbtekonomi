@@ -13,6 +13,6 @@ https://kuisekonomcbt.my.canva.site/
 - CBT online berbasis web
 
 ## Dibuat Oleh
-Widia Zahra
+Widia Zahra &
 Zahirah Ramadhani
 XI-F
